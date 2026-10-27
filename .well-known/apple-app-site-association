@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5N5K8L84XS.com.thewobot.bowler"],
+        "components": [
+          { "/": "/t/*", "comment": "Container by tag ID" },
+          { "/": "/c/*", "comment": "Container by label code" },
+          { "/": "/i/*", "comment": "Item by UUID" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": { "apps": ["5N5K8L84XS.com.thewobot.bowler"] }
+}
