@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["5N5K8L84XS.com.thewobot.bowler"],
+        "appIDs": ["YQ2MDC5UUP.com.thewobot.bowler"],
         "components": [
           { "/": "/t/*", "comment": "Container by tag ID" },
           { "/": "/c/*", "comment": "Container by label code" },
@@ -11,5 +11,5 @@
       }
     ]
   },
-  "webcredentials": { "apps": ["5N5K8L84XS.com.thewobot.bowler"] }
+  "webcredentials": { "apps": ["YQ2MDC5UUP.com.thewobot.bowler"] }
 }
